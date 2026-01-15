@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Claudee Matthew Galon</h1>
-<h3 align="center">A determined student🚀</h3>
+<h3 align="center">A determined student from Mandug🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceilapsus&label=Profile%20views&color=0e75b6&style=flat" alt="ceilapsus" /> </p>
 
-- 🌱 I’m currently learning **Website Development**
-- dasdsdasddasddadadsdads
+- 🌱 I’m currently learning **Website Development, UI/UX Design**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
